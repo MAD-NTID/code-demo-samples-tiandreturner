@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\Day04\Modulus\bin\Debug\netcoreapp3.1\Modulus.exe
+C:\Users\tjtics\source\repos\Day04\Modulus\bin\Debug\netcoreapp3.1\Modulus.deps.json
+C:\Users\tjtics\source\repos\Day04\Modulus\bin\Debug\netcoreapp3.1\Modulus.runtimeconfig.json
+C:\Users\tjtics\source\repos\Day04\Modulus\bin\Debug\netcoreapp3.1\Modulus.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\Day04\Modulus\bin\Debug\netcoreapp3.1\Modulus.dll
+C:\Users\tjtics\source\repos\Day04\Modulus\bin\Debug\netcoreapp3.1\Modulus.pdb
+C:\Users\tjtics\source\repos\Day04\Modulus\obj\Debug\netcoreapp3.1\Modulus.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\Day04\Modulus\obj\Debug\netcoreapp3.1\Modulus.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\Day04\Modulus\obj\Debug\netcoreapp3.1\Modulus.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\Day04\Modulus\obj\Debug\netcoreapp3.1\Modulus.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\Day04\Modulus\obj\Debug\netcoreapp3.1\Modulus.dll
+C:\Users\tjtics\source\repos\Day04\Modulus\obj\Debug\netcoreapp3.1\Modulus.pdb
+C:\Users\tjtics\source\repos\Day04\Modulus\obj\Debug\netcoreapp3.1\Modulus.genruntimeconfig.cache
