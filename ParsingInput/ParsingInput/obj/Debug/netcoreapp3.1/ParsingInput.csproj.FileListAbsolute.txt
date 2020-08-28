@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\bin\Debug\netcoreapp3.1\ParsingInput.exe
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\bin\Debug\netcoreapp3.1\ParsingInput.deps.json
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\bin\Debug\netcoreapp3.1\ParsingInput.runtimeconfig.json
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\bin\Debug\netcoreapp3.1\ParsingInput.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\bin\Debug\netcoreapp3.1\ParsingInput.dll
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\bin\Debug\netcoreapp3.1\ParsingInput.pdb
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\obj\Debug\netcoreapp3.1\ParsingInput.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\obj\Debug\netcoreapp3.1\ParsingInput.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\obj\Debug\netcoreapp3.1\ParsingInput.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\obj\Debug\netcoreapp3.1\ParsingInput.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\obj\Debug\netcoreapp3.1\ParsingInput.dll
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\obj\Debug\netcoreapp3.1\ParsingInput.pdb
+C:\Users\tjtics\source\repos\ParsingInput\ParsingInput\obj\Debug\netcoreapp3.1\ParsingInput.genruntimeconfig.cache

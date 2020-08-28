@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ParsingInput/1.0.0": {
+        "runtime": {
+          "ParsingInput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParsingInput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
