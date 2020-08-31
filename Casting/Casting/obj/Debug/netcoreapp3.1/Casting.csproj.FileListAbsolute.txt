@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
