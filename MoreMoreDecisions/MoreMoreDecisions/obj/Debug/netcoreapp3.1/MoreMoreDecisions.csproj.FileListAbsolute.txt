@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\bin\Debug\netcoreapp3.1\MoreMoreDecisions.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\bin\Debug\netcoreapp3.1\MoreMoreDecisions.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\bin\Debug\netcoreapp3.1\MoreMoreDecisions.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\bin\Debug\netcoreapp3.1\MoreMoreDecisions.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\bin\Debug\netcoreapp3.1\MoreMoreDecisions.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\bin\Debug\netcoreapp3.1\MoreMoreDecisions.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\obj\Debug\netcoreapp3.1\MoreMoreDecisions.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\obj\Debug\netcoreapp3.1\MoreMoreDecisions.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\obj\Debug\netcoreapp3.1\MoreMoreDecisions.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\obj\Debug\netcoreapp3.1\MoreMoreDecisions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\obj\Debug\netcoreapp3.1\MoreMoreDecisions.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\obj\Debug\netcoreapp3.1\MoreMoreDecisions.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreMoreDecisions\MoreMoreDecisions\obj\Debug\netcoreapp3.1\MoreMoreDecisions.genruntimeconfig.cache
