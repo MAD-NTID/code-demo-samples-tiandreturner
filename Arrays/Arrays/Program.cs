@@ -29,7 +29,7 @@ namespace Arrays
 
             // With an array, it is a little bit different.
             // it is like a tackle box.
-            int[] numbers = new int[6];
+            int[] numbers = new int[6]; // goes from 1 to 6 or 0 to 5
 
             // storing numbers in each element
             numbers[0] = 3;
@@ -38,6 +38,7 @@ namespace Arrays
             numbers[3] = 23;
             numbers[4] = 64;
             numbers[5] = 50;
+            numbers[6] = 500; // out of bounds
 
             // this is another way to create an array
             int[] diffNumbers = { 1, 2, 3, 4, 5, 6 };

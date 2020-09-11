@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.genruntimeconfig.cache
