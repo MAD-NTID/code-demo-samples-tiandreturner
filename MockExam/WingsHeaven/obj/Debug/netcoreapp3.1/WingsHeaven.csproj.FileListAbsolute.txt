@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockExam\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.genruntimeconfig.cache

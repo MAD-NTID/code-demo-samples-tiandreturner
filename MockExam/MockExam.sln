@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleHunters", "PuzzleHunters\PuzzleHunters.csproj", "{EDAABFDE-6309-442F-A166-50EC6178E366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingsHeaven", "WingsHeaven\WingsHeaven.csproj", "{45A8AE64-870B-44F1-8A65-1B334E90E9E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAABFDE-6309-442F-A166-50EC6178E366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAABFDE-6309-442F-A166-50EC6178E366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAABFDE-6309-442F-A166-50EC6178E366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAABFDE-6309-442F-A166-50EC6178E366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A8AE64-870B-44F1-8A65-1B334E90E9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A8AE64-870B-44F1-8A65-1B334E90E9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A8AE64-870B-44F1-8A65-1B334E90E9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A8AE64-870B-44F1-8A65-1B334E90E9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BADDB84-02AA-4985-B841-44FCB2DDBEBA}
+	EndGlobalSection
+EndGlobal
