@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\bin\Debug\netcoreapp3.1\ForLoopsWithArray.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\bin\Debug\netcoreapp3.1\ForLoopsWithArray.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\bin\Debug\netcoreapp3.1\ForLoopsWithArray.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\bin\Debug\netcoreapp3.1\ForLoopsWithArray.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\bin\Debug\netcoreapp3.1\ForLoopsWithArray.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\bin\Debug\netcoreapp3.1\ForLoopsWithArray.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\obj\Debug\netcoreapp3.1\ForLoopsWithArray.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\obj\Debug\netcoreapp3.1\ForLoopsWithArray.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\obj\Debug\netcoreapp3.1\ForLoopsWithArray.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\obj\Debug\netcoreapp3.1\ForLoopsWithArray.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\obj\Debug\netcoreapp3.1\ForLoopsWithArray.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\obj\Debug\netcoreapp3.1\ForLoopsWithArray.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\ForLoops\ForLoopsWithArray\obj\Debug\netcoreapp3.1\ForLoopsWithArray.genruntimeconfig.cache
