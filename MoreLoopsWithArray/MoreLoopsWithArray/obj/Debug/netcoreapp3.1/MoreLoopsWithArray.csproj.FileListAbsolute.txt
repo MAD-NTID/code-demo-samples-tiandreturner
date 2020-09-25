@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\bin\Debug\netcoreapp3.1\MoreLoopsWithArray.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\bin\Debug\netcoreapp3.1\MoreLoopsWithArray.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\bin\Debug\netcoreapp3.1\MoreLoopsWithArray.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\bin\Debug\netcoreapp3.1\MoreLoopsWithArray.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\bin\Debug\netcoreapp3.1\MoreLoopsWithArray.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\bin\Debug\netcoreapp3.1\MoreLoopsWithArray.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\obj\Debug\netcoreapp3.1\MoreLoopsWithArray.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\obj\Debug\netcoreapp3.1\MoreLoopsWithArray.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\obj\Debug\netcoreapp3.1\MoreLoopsWithArray.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\obj\Debug\netcoreapp3.1\MoreLoopsWithArray.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\obj\Debug\netcoreapp3.1\MoreLoopsWithArray.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\obj\Debug\netcoreapp3.1\MoreLoopsWithArray.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MoreLoopsWithArray\MoreLoopsWithArray\obj\Debug\netcoreapp3.1\MoreLoopsWithArray.genruntimeconfig.cache
