@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\bin\Debug\netcoreapp3.1\BetterMethods.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\bin\Debug\netcoreapp3.1\BetterMethods.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\bin\Debug\netcoreapp3.1\BetterMethods.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\bin\Debug\netcoreapp3.1\BetterMethods.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\bin\Debug\netcoreapp3.1\BetterMethods.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\bin\Debug\netcoreapp3.1\BetterMethods.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\obj\Debug\netcoreapp3.1\BetterMethods.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\obj\Debug\netcoreapp3.1\BetterMethods.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\obj\Debug\netcoreapp3.1\BetterMethods.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\obj\Debug\netcoreapp3.1\BetterMethods.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\obj\Debug\netcoreapp3.1\BetterMethods.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\obj\Debug\netcoreapp3.1\BetterMethods.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\Methods\BetterMethods\obj\Debug\netcoreapp3.1\BetterMethods.genruntimeconfig.cache

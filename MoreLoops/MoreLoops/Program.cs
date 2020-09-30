@@ -18,12 +18,22 @@ namespace MoreLoops
             //     i++;
             //}
 
-            //int i = 0;
-            //do
-            //{
-            //    Console.WriteLine(i);
-            //    i++;
-            //} while (i < 10);
+            int i = 0;
+            do
+            {
+                Console.WriteLine(i);
+                i++;
+            } while (i < 10);
+
+            Console.Clear();
+
+             i = 0;
+            do
+            {
+                Console.WriteLine(i);
+                i++;
+            } while (i < 10);
+
 
             //Console.Write("Enter a number: ");
             //while(!int.TryParse(Console.ReadLine(), out int number))
@@ -66,24 +76,24 @@ namespace MoreLoops
             //    }
             //}
 
-            do
-            {
-                int number = 1;
-                int sum = 1;
-                Console.Write("Enter a number to get the sum: ");
-                int endNum = int.Parse(Console.ReadLine());
+            //do
+            //{
+            //    int number = 1;
+            //    int sum = 1;
+            //    Console.Write("Enter a number to get the sum: ");
+            //    int endNum = int.Parse(Console.ReadLine());
 
-                while (number <= endNum)
-                {
-                    sum += number;
-                    // Console.WriteLine(sum);
-                    number++;
-                }
+            //    while (number <= endNum)
+            //    {
+            //        sum += number;
+            //        // Console.WriteLine(sum);
+            //        number++;
+            //    }
 
-                Console.WriteLine("The sum is " + sum);
+            //    Console.WriteLine("The sum is " + sum);
 
-                Console.Write("Do you want to continue? (y/n): ");
-            } while (Console.ReadLine() == "y");
+            //    Console.Write("Do you want to continue? (y/n): ");
+            //} while (Console.ReadLine() == "y");
 
 
         }
