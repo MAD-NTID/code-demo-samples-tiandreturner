@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\WrappingUpMethods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.genruntimeconfig.cache
