@@ -8,6 +8,7 @@ namespace CarFactory
         {
             // to create an object.
             Car myCar = new Car();
+            myCar.Price = 5000;
             //myCar.Make = "Chevrolet";
             //myCar.Model = "Express";
             //myCar.Year = 2006;
@@ -19,11 +20,11 @@ namespace CarFactory
             //myCar.Color = "Tan";
             //myCar.IsRunning = true;
 
-           
-           
-
-
             Console.WriteLine("Data for the first car object");
+            Console.WriteLine(myCar);
+
+            myCar.Price = -2300;
+            Console.WriteLine("\n\nData for the first car object after change to -2300");
             Console.WriteLine(myCar);
 
             //Console.WriteLine("Make: " + myCar.Make);
@@ -53,6 +54,28 @@ namespace CarFactory
             //Console.WriteLine($"Price: {jamesCar.Price}");
             //Console.WriteLine("Year: {0}", jamesCar.Year);
             //Console.WriteLine("Type of tires: {0}", jamesCar.TypeOfTires);
+
+            //int[] array = { 50, 60 };
+
+            Car propCar = new Car();
+            propCar.Year = 2000;
+            propCar.Color = "Yellow";
+            propCar.Make = "Ford";
+            propCar.Model = "F150";
+            propCar.Price = 400;
+
+            Console.WriteLine("\n\n" + propCar);
+
+            Car oisCar = new Car()
+            {
+                Year = 1899,
+                Color = "Blue",
+                Make = "Chevrolet",
+                Model = "Avalanche",
+                Price = 5000
+            };
+
+            Console.WriteLine($"\n\n{oisCar}");
         }
     }
 }

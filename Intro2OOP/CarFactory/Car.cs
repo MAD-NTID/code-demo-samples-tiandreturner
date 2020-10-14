@@ -1,11 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Text;
 
 namespace CarFactory
 {
     class Car
     {
+        // data fields
+        private double price;
+        private int year;
+
         // these are properties
         public string Color { get; set; }
         public string Windows { get; set; }
@@ -14,11 +19,61 @@ namespace CarFactory
         public bool HasGPS { get; set; }
         public string DoorType { get; set; }
         public string AntennaType { get; set; }
-        public double Price { get; set; }
+        public double Price
+        {
+            get
+            {
+                return price;
+            }
+            set
+            {
+                if(value >= 0)
+                {
+                    price = value;
+                }
+                else
+                {
+                    price = 400;
+                }
+            }
+        }
+
+        // use propfull and then click the tab twice 
+        // to generate both of the property and data field
+        //private int number;
+
+        //public int Number
+        //{   
+        //    get { return number; }
+        //    set { number = value; }
+        //}
+
+
+
+        //public double Price { get; set; }
 
         public bool HasRadio { set; get;  }
 
-        public int Year { get; set; }
+        public int Year 
+        { 
+            get
+            {
+                return year;
+            }
+            set
+            {
+                if(value >= 1990 &&  value <= DateTime.Now.Year)
+                {
+                    year = value;
+                }
+                else
+                {
+                    year = DateTime.Now.Year;
+                }
+            }
+        }
+
+
         public string CarType { get; set; }
         public string Make { get; set; }
         public string Model { get; set; }
