@@ -98,6 +98,15 @@ namespace CarFactory
             IsRunning = false;
          }
 
+        public Car(string _make, string _model, int _year, string _color, string _carType)
+        {
+            Make = _make;
+            Model = _model;
+            Year = _year;
+            Color = _color;
+            CarType = _carType;
+        }
+
         // parameterized constructor
         public Car(string _color, string _windows, string _typeOfTires, bool _hasGPS,
             string _doorType, string _antennaType, double _price, bool _hasRadio,
