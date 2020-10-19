@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\obj\Debug\netcoreapp3.1\ForEach.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+C:\Users\tjtics\source\repos\DateTimeAndEnums\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache
