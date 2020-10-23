@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\obj\Debug\netcoreapp3.1\MockPracticalExam2.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\obj\Debug\netcoreapp3.1\MockPracticalExam2.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\obj\Debug\netcoreapp3.1\MockPracticalExam2.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\obj\Debug\netcoreapp3.1\MockPracticalExam2.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\bin\Debug\netcoreapp3.1\MockPracticalExam2.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\bin\Debug\netcoreapp3.1\MockPracticalExam2.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\bin\Debug\netcoreapp3.1\MockPracticalExam2.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\bin\Debug\netcoreapp3.1\MockPracticalExam2.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\bin\Debug\netcoreapp3.1\MockPracticalExam2.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\bin\Debug\netcoreapp3.1\MockPracticalExam2.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\obj\Debug\netcoreapp3.1\MockPracticalExam2.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\obj\Debug\netcoreapp3.1\MockPracticalExam2.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\MockPracticalExam2\MockPracticalExam2\obj\Debug\netcoreapp3.1\MockPracticalExam2.genruntimeconfig.cache
