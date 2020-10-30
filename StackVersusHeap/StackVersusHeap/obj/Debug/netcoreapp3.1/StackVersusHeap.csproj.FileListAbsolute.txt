@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\bin\Debug\netcoreapp3.1\StackVersusHeap.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\bin\Debug\netcoreapp3.1\StackVersusHeap.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\bin\Debug\netcoreapp3.1\StackVersusHeap.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\bin\Debug\netcoreapp3.1\StackVersusHeap.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\bin\Debug\netcoreapp3.1\StackVersusHeap.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\bin\Debug\netcoreapp3.1\StackVersusHeap.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\obj\Debug\netcoreapp3.1\StackVersusHeap.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\obj\Debug\netcoreapp3.1\StackVersusHeap.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\obj\Debug\netcoreapp3.1\StackVersusHeap.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\obj\Debug\netcoreapp3.1\StackVersusHeap.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\obj\Debug\netcoreapp3.1\StackVersusHeap.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\obj\Debug\netcoreapp3.1\StackVersusHeap.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\StackVersusHeap\StackVersusHeap\obj\Debug\netcoreapp3.1\StackVersusHeap.genruntimeconfig.cache
