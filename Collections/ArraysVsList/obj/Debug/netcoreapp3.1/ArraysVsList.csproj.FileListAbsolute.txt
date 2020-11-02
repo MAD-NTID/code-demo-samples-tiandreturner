@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\bin\Debug\netcoreapp3.1\ArraysVsList.exe
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\bin\Debug\netcoreapp3.1\ArraysVsList.deps.json
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\bin\Debug\netcoreapp3.1\ArraysVsList.runtimeconfig.json
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\bin\Debug\netcoreapp3.1\ArraysVsList.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\bin\Debug\netcoreapp3.1\ArraysVsList.dll
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\bin\Debug\netcoreapp3.1\ArraysVsList.pdb
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\obj\Debug\netcoreapp3.1\ArraysVsList.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\obj\Debug\netcoreapp3.1\ArraysVsList.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\obj\Debug\netcoreapp3.1\ArraysVsList.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\obj\Debug\netcoreapp3.1\ArraysVsList.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\obj\Debug\netcoreapp3.1\ArraysVsList.dll
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\obj\Debug\netcoreapp3.1\ArraysVsList.pdb
+C:\Users\tjtics\source\repos\Collections\ArraysVsList\obj\Debug\netcoreapp3.1\ArraysVsList.genruntimeconfig.cache

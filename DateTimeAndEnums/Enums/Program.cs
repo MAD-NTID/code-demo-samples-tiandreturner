@@ -13,15 +13,15 @@ namespace Enums
 
         enum Months
         {
-            January,
+            Januay =1,
             February,
             March,
             April,
             May,
-            June = 5,
+            June,
             July,
             August,
-            September = 3,
+            September,
             October,
             November,
             December
@@ -63,19 +63,22 @@ namespace Enums
 
             Console.WriteLine((int)Months.February);
             Console.WriteLine((int)Months.May);
-           // Console.WriteLine(Months.May);
+            // Console.WriteLine(Months.May);
+
+
+            Console.WriteLine(Enum.GetName(typeof(Months), 2));
 
             // get all the values of the Months enum
-            //foreach(int i in Enum.GetValues(typeof(Months)))
+            //foreach (int i in Enum.GetValues(typeof(Months)))
             //{
             //    Console.Write($" {i}: ");
             //    Console.WriteLine(Enum.GetName(typeof(Months), i));
             //}
 
-            foreach(string name in Enum.GetNames(typeof(Months)))
-            {
-                Console.WriteLine(name);
-            }
+            //foreach (string name in Enum.GetNames(typeof(Months)))
+            //{
+            //    Console.WriteLine(name);
+            //}
         }
     }
 }
