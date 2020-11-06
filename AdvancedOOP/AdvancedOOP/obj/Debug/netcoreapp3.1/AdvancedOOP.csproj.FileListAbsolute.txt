@@ -1,0 +1,13 @@
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\bin\Debug\netcoreapp3.1\AdvancedOOP.exe
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\bin\Debug\netcoreapp3.1\AdvancedOOP.deps.json
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\bin\Debug\netcoreapp3.1\AdvancedOOP.runtimeconfig.json
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\bin\Debug\netcoreapp3.1\AdvancedOOP.runtimeconfig.dev.json
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\bin\Debug\netcoreapp3.1\AdvancedOOP.dll
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\bin\Debug\netcoreapp3.1\AdvancedOOP.pdb
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\obj\Debug\netcoreapp3.1\AdvancedOOP.AssemblyInfoInputs.cache
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\obj\Debug\netcoreapp3.1\AdvancedOOP.AssemblyInfo.cs
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\obj\Debug\netcoreapp3.1\AdvancedOOP.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\obj\Debug\netcoreapp3.1\AdvancedOOP.dll
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\obj\Debug\netcoreapp3.1\AdvancedOOP.pdb
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\obj\Debug\netcoreapp3.1\AdvancedOOP.genruntimeconfig.cache
+C:\Users\tjtics\Source\Repos\code-demo-samples-tiandreturner\AdvancedOOP\AdvancedOOP\obj\Debug\netcoreapp3.1\AdvancedOOP.csprojAssemblyReference.cache

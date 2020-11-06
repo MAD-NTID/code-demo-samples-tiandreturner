@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 
 namespace AdvancedOOP
@@ -59,6 +60,8 @@ namespace AdvancedOOP
 
         public int GasTankCapacity { get; set; }
 
+        public Engine Engine { get; set; }
+
         public bool IsRunning { get; set; }
 
         // default constructor
@@ -73,7 +76,7 @@ namespace AdvancedOOP
             IsRunning = false;
          }
 
-        public Car(string _make, string _model, int _year, string _color, string _carType, int _gasTankCap)
+        public Car(string _make, string _model, int _year, string _color, string _carType, int _gasTankCap, Engine _engine)
         {
             Make = _make;
             Model = _model;
@@ -81,6 +84,7 @@ namespace AdvancedOOP
             Color = _color;
             CarType = _carType;
             GasTankCapacity = _gasTankCap;
+            Engine = _engine;
             IsRunning = false;
         }
 
@@ -116,6 +120,11 @@ namespace AdvancedOOP
                 "\nYear: {0}", Year +
                 $"\nCar Type: {CarType}" +
                 $"\nGas Tank Capacity: {GasTankCapacity}");
+        }
+
+        public bool DoesEngineExist()
+        {
+            return true;
         }
     }
 }

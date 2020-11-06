@@ -1,16 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AdvancedOOP
 {
     class Program
     {
+        static List<Engine> engines = new List<Engine>();
         static void Main(string[] args)
         {
-            string menu = String.Format("1. Build a car\n2. Remove a car\n" +
-                "3. List all cars\n4. Exit\n\nEnter your option: ");
+            string menu = String.Format("1. Build a car\n2. Add an engine\n3. Remove a car\n" +
+                "4. List all cars\n5. List all engines\n6. Exit\n\nEnter your option: ");
 
             Car myCar;
-            Car[] cars = new Car[0];
+            // Car[] cars = new Car[0]; // how to change this to list?
+            List<Car> cars = new List<Car>();
+           
 
             while (true)
             {
@@ -38,31 +42,45 @@ namespace AdvancedOOP
                         Console.Write("Enter the gas tank capacity: ");
                         int gtc = int.Parse(Console.ReadLine());
 
-                        // create a new car object
-                        myCar = new Car(make, model, year, color, carType, gtc);
+                        Engine engine = null;
+                        
+                        DisplayEngines();
 
-                        Array.Resize(ref cars, cars.Length + 1);
-                        cars[cars.Length - 1] = myCar;
+                        Console.Write("Select an engine: ");
+                        engine = engines[int.Parse(Console.ReadLine()) - 1];
+
+                        // create a new car object
+                        myCar = new Car(make, model, year, color, carType, gtc, engine);
+
+                       
+                        cars.Add(myCar);
                         Console.WriteLine("\n");
                         break;
                     case 2:
-                        Console.Write($"Enter the number to remove a car (1 - {cars.Length}): ");
+                        Console.Write("Number of cylinders: ");
+                        int nc = int.Parse(Console.ReadLine());
+
+                        Console.Write("Fuel Type: ");
+                        string ft = Console.ReadLine();
+
+                        Console.Write("Horsepower: ");
+                        int hp = int.Parse(Console.ReadLine());
+
+                        Console.Write("Engine Size (L): ");
+                        double engSize = double.Parse(Console.ReadLine());
+
+                        engines.Add(new Engine() { EngineSize = engSize, FuelType = ft, NumCylinders = nc, HorsePower = hp });
+                        break;
+                    case 3:
+                        Console.Write($"Enter the number to remove a car (1 - {cars.Count}): ");
 
                         int choice = int.Parse(Console.ReadLine());
 
-                        // Shift all car objects over by one based on choice
-                        for (int index = choice; index < cars.Length; index++)
-                        {
-                            // same as cars[choice -1] = cars[choice];
-                            cars[index - 1] = cars[index];
-                        }
-
-                        //cars[choice] = null;
-
-                        Array.Resize(ref cars, cars.Length - 1);
+                        // how to remove a car object from list?
+                        cars.RemoveAt(choice - 1); // OR cars.Remove(cars[choice - 1])
                         break;
-                    case 3:
-                        for (int i = 0; i < cars.Length; i++)
+                    case 4:
+                        for (int i = 0; i < cars.Count; i++)
                         {
                             if (cars[i] == null)
                             {
@@ -76,10 +94,23 @@ namespace AdvancedOOP
 
                         }
                         break;
-                    case 4:
+                    case 5:
+                        DisplayEngines();
+                        break;
+                    case 6:
                         Environment.Exit(0);
                         break;
                 }
+            }
+        }
+
+        public static void DisplayEngines()
+        {
+            int j = 1;
+            foreach (Engine e in engines)
+            {
+                Console.WriteLine($"{j}. {e}");
+                j++;
             }
         }
     }
