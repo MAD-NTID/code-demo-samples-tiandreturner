@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\bin\Debug\netcoreapp3.1\CarDictionary.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\bin\Debug\netcoreapp3.1\CarDictionary.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\bin\Debug\netcoreapp3.1\CarDictionary.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\bin\Debug\netcoreapp3.1\CarDictionary.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\bin\Debug\netcoreapp3.1\CarDictionary.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\bin\Debug\netcoreapp3.1\CarDictionary.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\obj\Debug\netcoreapp3.1\CarDictionary.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\obj\Debug\netcoreapp3.1\CarDictionary.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\obj\Debug\netcoreapp3.1\CarDictionary.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\obj\Debug\netcoreapp3.1\CarDictionary.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\obj\Debug\netcoreapp3.1\CarDictionary.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\obj\Debug\netcoreapp3.1\CarDictionary.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarDictionary\CarDictionary\obj\Debug\netcoreapp3.1\CarDictionary.genruntimeconfig.cache
