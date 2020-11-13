@@ -92,6 +92,12 @@ namespace FileIO
             // for the project
             
             //ANY QUESTION?!
+
+            // #1 -- answer the question from ICE 25
+            // you will have quizzes on monday, wednesday and Friday
+            // monday -- list
+            // wednesday -- dictionary
+            // friday -- file.io 
         }
     }
 }
