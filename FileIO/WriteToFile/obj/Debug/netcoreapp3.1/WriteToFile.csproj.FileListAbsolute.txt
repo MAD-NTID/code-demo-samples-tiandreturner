@@ -1,0 +1,14 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\bin\Debug\netcoreapp3.1\WriteToFile.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\bin\Debug\netcoreapp3.1\pf1.txt
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\bin\Debug\netcoreapp3.1\WriteToFile.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\bin\Debug\netcoreapp3.1\WriteToFile.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\bin\Debug\netcoreapp3.1\WriteToFile.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\bin\Debug\netcoreapp3.1\WriteToFile.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\bin\Debug\netcoreapp3.1\WriteToFile.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\obj\Debug\netcoreapp3.1\WriteToFile.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\obj\Debug\netcoreapp3.1\WriteToFile.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\obj\Debug\netcoreapp3.1\WriteToFile.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\obj\Debug\netcoreapp3.1\WriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\obj\Debug\netcoreapp3.1\WriteToFile.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\obj\Debug\netcoreapp3.1\WriteToFile.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\FileIO\WriteToFile\obj\Debug\netcoreapp3.1\WriteToFile.genruntimeconfig.cache
