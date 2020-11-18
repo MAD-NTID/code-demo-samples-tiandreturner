@@ -1,0 +1,14 @@
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.exe
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.deps.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.runtimeconfig.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.dll
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.pdb
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.genruntimeconfig.cache
+C:\Users\tjtics\source\repos\code-demo-samples-tiandreturner\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\carRecords.txt
